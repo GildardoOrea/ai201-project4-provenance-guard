@@ -6,6 +6,14 @@ The goal of this project is not to pretend that AI detection can be perfect. It 
 
 Full planning notes and the architecture diagram are in [planning.md](planning.md).
 
+## Walkthrough
+
+A short walkthrough showing the system working end-to-end (submit, appeal, and the audit log) and a few design decisions:
+
+![Walkthrough](walkthrough.gif)
+
+[View the walkthrough directly](https://github.com/GildardoOrea/ai201-project4-provenance-guard/blob/main/walkthrough.gif)
+
 ## Setup
 
 ```bash
